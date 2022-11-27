@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021698876323",
+    "project_id": "message-app-23044",
+    "storage_bucket": "message-app-23044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021698876323:android:a398d562635a2cf46cf016",
+        "android_client_info": {
+          "package_name": "com.example.message_flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021698876323-3k0ck5c4lkhm7ugumgrte07tdsb038vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPv2r1QH8stJ_MPKALN9255gXXhBXZ1fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021698876323-3k0ck5c4lkhm7ugumgrte07tdsb038vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
